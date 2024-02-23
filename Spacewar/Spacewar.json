@@ -1,0 +1,17 @@
+{
+  "response": [
+    {
+      "datetime": 1708645002,
+      "filename": "PixysOS-v7.1.2-GAPPS-Spacewar-BETA-5.1-20240223-045418.zip",
+      "payload": [
+        {
+          "offset": ,
+          "FILE_HASH": "n/9DNYuoFgIQYTgz5loO2GZlIoj3Eb25/EzZpO/FsY4=",
+          "FILE_SIZE": "2257161395",
+          "METADATA_HASH": "Nma1pOTuE+zHA9PhTyHscMcNnK5cKYukr5MWOqAK+gs=",
+          "METADATA_SIZE": "153240"
+        }
+      ]
+    }
+  ]
+}
